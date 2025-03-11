@@ -1,0 +1,14 @@
+{
+  "name": "find-images-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to find image files in a given directory",
+  "main": "bin/find-images.js",
+  "bin": {
+    "find-images": "./bin/find-images.js"
+  },
+  "scripts": {
+    "start": "node bin/find-images.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
